@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.item {
+  max-width: 400px;
+}
+.btn {
+  margin-left: 12px;
+  cursor: pointer;
+  border-radius: 5px;
+}
